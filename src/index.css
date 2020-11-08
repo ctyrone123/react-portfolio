@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.card {
+  background: url("/images/background.jpg") no-repeat center center fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: center;
+  align-content: flex-start;
+  overflow: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+.container-fluid , .container {
+  background: url("/images/background.jpg") no-repeat center center fixed;
+  height: 100%;
+  width: 100%;
+}
+
+p , a , h2 , .card-title {
+  color: rgb(255, 255, 255)
+
+}
+#root {
+
+}

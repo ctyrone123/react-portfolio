@@ -4,21 +4,19 @@ import Project from "../Project/project";
 
 export default function Portfolio(props) {
   return (
-
     <div className="container">
-    <figure className="card col-md-12 p-4">
       <section className="row cardRow">
         {projects.map((project) => (
           <Project
             key={project.id}
             name={project.name}
             image={project.image}
+            description={project.description}
             repo={project.repo}
-            deployed={project.link}
+            deployed={project.deployed}
           />
         ))}
       </section>
-    </figure>
-  </div>
+    </div>
   );
 }

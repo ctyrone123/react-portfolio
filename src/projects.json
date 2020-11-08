@@ -1,43 +1,48 @@
 [
     {
       "id": 1,
-      "name": "Eats and Drinks",
+      "name": "Red Bag",
       "image":
-        "images/.jpg",
-      "deployed": "https://ctyrone123.github.io/project1/",
-      "repo": "https://github.com/ctyrone123/project1"
+        "images/project2.png",
+      "deployed": "https://red-bag-p2.herokuapp.com/",
+      "repo": "https://github.com/e-leal/project-2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum"
     },
     {
       "id": 2,
-      "name": "Red Bag",
+      "name": "Eats and Drinks",
       "image":
-        "images/.jpg",
-      "deployed": "https://red-bag-p2.herokuapp.com/",
-      "repo": "https://github.com/e-leal/project-2"
+        "images/project1.png",
+      "deployed": "https://ctyrone123.github.io/project1/",
+      "repo": "https://github.com/ctyrone123/project1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum"
     },
     {
       "id": 3,
       "name": "Certainly",
       "image":
-        "images/.jpg",
-      "deployed": "https://certainly.herokuapp.com",
-      "repo": "https://github.com/e-leal/project-3"
+        "images/project-3.png",
+      "deployed": "https://certainly.herokuapp.com/",
+      "repo": "https://github.com/e-leal/project-3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum"
     },
     {
       "id": 4,
-      "name": "Budget Tracker",
+      "name": "Horiseon",
       "image":
-        "images/.jpg",
-      "deployed": "https://boiling-mountain-95443.herokuapp.com/",
-      "repo": "https://github.com/ctyrone123/budget-tracker"
+        "images/horiseon.png",
+      "deployed": "https://ctyrone123.github.io/horiseon/",
+      "repo": "https://github.com/ctyrone123/horiseon",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum"
     },
     {
       "id": 5,
-      "name": "Password Generator",
+      "name": "Run Buddy",
       "image":
-        "images/.jpg",
-      "deployed": "https://ctyrone123.github.io/password-generator/",
-      "repo": "https://github.com/ctyrone123/password-generator"
+        "images/run-buddy.png",
+      "deployed": "https://ctyrone123.github.io/run-buddy/",
+      "repo": "https://github.com/ctyrone123/run-buddy",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum"
     }
-    
   ]
+  

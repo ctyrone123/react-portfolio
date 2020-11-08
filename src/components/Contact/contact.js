@@ -36,7 +36,7 @@ export default function Contact() {
                 <div class="col mt-4">
                   <a
                     class="text-light"
-                    href="https://github.com/ctyrone123@gmail.com"
+                    href="https://github.com/ctyrone123"
                     target="_blank"
                   >
                     <i class="fa fa-github fa-2x" aria-hidden="true"></i> My

@@ -38,7 +38,7 @@ export default function About() {
                    dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam
                   </p>
                   <p>
-                    <a href="">
+                    <a href="https://drive.google.com/file/d/1nc1HZ7TDDURIprFmPIOn5seuORzH2fDF/view?usp=sharing">
                       <strong> My Resume </strong>{" "}
                     </a>{" "}
                   </p>{" "}
