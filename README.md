@@ -1,56 +1,33 @@
+React Portfolio
+Table of Contents:
+1. Description
+2. App Usage
+3. License Details
+4. List of Contributors
+5. Tests
+7. Questions
 
+Description:
+This is a portfolio created using react
 
-# My Portfolio
-https://vast-basin-23853.herokuapp.com/
+Here is a link to the live application: https://aqueous-fjord-08104.herokuapp.com
 
-# Description 
-This website contains my portfolio of projects that I have created and am currently working on, as well as contact information to reach me.
+Link to the repo: 
+https://github.com/ctyrone123/react-portfolio
 
+App Usage:
+DOwnload zip fil eand run NPM install in root directory then npm start
 
-# Table of Contents 
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributors](#contributors)
-* [Test](#test)
-* [Questions](#questions)
-* [Contact](#contact)
+License Details:
+No licenses - Free Use
 
-# Installation
- 
-Bootstrap was used for the CSS framework and React-Router-Dom for routing.
+List of Contributors:
+Me Myself and I
 
+Tests:
+No Tests
 
-# Usage
-
-https://vast-basin-23853.herokuapp.com/
-
-
-# License
-
-None
-
-![](https://img.shields.io/badge/build-readme-green)
-
-
-# Contributors
-
-Christopher Turton
-
-
-# Test
-![](/public/images/about.jpg)
-![](/public/images/contact.jpg)
-![](/public/images/portfolio.jpg)
-
-
-
-
-# Questions
-
-For any additional questions or inquiries, please reach out to me through my Github or email @ christopheaturton@gmail.com
-
-
-## Contact
-*To contact the developer, you may reach them at https://github.com/Turtando on GitHub or, you email directly at christopheraturton@gmail.com.*
-
+Questions:
+Here is a link to my github:
+https://github.com/ctyrone123 Email me at:
+ctyrone123@gmail.com for additional questions
