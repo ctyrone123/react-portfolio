@@ -8,7 +8,11 @@ Table of Contents:
 7. Questions
 
 Description:
-This is a portfolio created using react
+This is a portfolio created using react.
+
+![](public/images/Screenshot1.png)
+
+![](public/images/Screenshot2.png)
 
 Here is a link to the live application: https://aqueous-fjord-08104.herokuapp.com
 
